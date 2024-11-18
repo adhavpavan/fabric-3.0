@@ -1,0 +1,9 @@
+fabric-3.0/blockchain/performance-tool/caliper/node_modules
+crypto-config
+fabric-3.0/blockchain/artifacts/channel/create-certificate-with-ca/fabric-ca
+fabric-3.0/blockchain/artifacts/channel/crypto-config
+crypto-config
+*.log
+*-audit.json
+fabric-ca
+*.tar.gz
